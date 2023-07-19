@@ -32,7 +32,7 @@ print(numerica)
 
 #ordenando lista
 lista = [546545, 1454564, 1545, 54, 6, 48, 5, 4, 54778, 1213, 8797, 14752, 1, 2, 3, 45, 5, 6]
-lista1= [546545, 1454564, 1545, 54, 6, 48, 5, 4, 54778, 1213, 8797, 14752, 1, 2, 3, 45, 5, 6]
+lista1 = [546545, 1454564, 1545, 54, 6, 48, 5, 4, 54778, 1213, 8797, 14752, 1, 2, 3, 45, 5, 6]
 lista.sort()#ordena a propria lista passada
 lista1 = sorted(lista)#ordena a lista, porem necessita atribuir ela a uma variavel
 print(lista)
