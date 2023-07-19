@@ -21,3 +21,12 @@ print(tamanho)
 #Para adicionar conteudo a lista:
 numerica.append(11)
 print(numerica)
+
+#verifica se o parametro esta na lista
+if 7 in numerica:
+    print("esta na lista")
+
+#apaga tudo na lista do 7 em diante
+del numerica[7:]
+print(numerica)
+
