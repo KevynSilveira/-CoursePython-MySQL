@@ -18,5 +18,4 @@ for i in range(len(lista)):
         lista[i] = lista[menor]
         lista[menor] = aux
 
-
 print(lista)
