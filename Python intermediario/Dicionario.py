@@ -10,10 +10,7 @@ meu_dicionario = {
     "B":"Bola",
     "C":"Casa"
 }
-
-
 # Chama o print e passa o indice que deseja chamar
-
 print(meu_dicionario["B"])
 
 
