@@ -1,1 +1,0 @@
-Essa e a cricao de um novo arquivo de texto utilizando a funcao write
